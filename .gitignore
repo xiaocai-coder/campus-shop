@@ -1,0 +1,23 @@
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+# backend
+backend/target/
+backend/src/main/resources/application.yml
+backend/src/main/resources/application.yaml
+
+# logs
+*.log
+
+# env
+.env
+*.env
+
+# editor
+.vscode/
+.idea/
+
+# system
+.DS_Store
+Thumbs.db
